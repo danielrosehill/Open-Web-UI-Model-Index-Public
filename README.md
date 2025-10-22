@@ -1,5 +1,7 @@
 # OpenWebUI - Public Models Index
 
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 ![alt text](banner.webp)
 
 [![OpenWebUI](https://img.shields.io/badge/Visit-OpenWebUI-blue)](https://openwebui.com) [![My Profile](https://img.shields.io/badge/My-Profile-green)](https://openwebui.com/m/danielrosehill)
